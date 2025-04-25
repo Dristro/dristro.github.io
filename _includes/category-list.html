@@ -1,0 +1,12 @@
+{% assign categories = site.categories | sort %}
+<ul>
+  {% for category in categories %}
+  <li>
+    <a
+      href="{{ '/categories/' | append: category[0] | slugify | append: '/' | relative_url }}"
+    >
+      {{ category[0] }} ({{ category[1].size }})
+    </a>
+  </li>
+  {% endfor %}
+</ul>

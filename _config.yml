@@ -213,10 +213,12 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [categories]
+  enabled:
+    - categories
   layouts:
-    category: category
+    category: archive
   permalinks:
     category: /categories/:name/
+
 tag_archive:
   type: none

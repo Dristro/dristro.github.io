@@ -27,7 +27,7 @@ Live demos hosted on Hugging Face Spaces.
 #### [Food Classifier](https://huggingface.co/spaces/Dristro/food_classifier)
 An EfficientNet-B2 model to classify between 3 food types: pizza, steak, sushi.
 
-#### [Food Classifier 101](https://huggingface.co/spaces/Dristro/food_classifier_101)
+#### [Food Classifier 101](https://huggingface.co/spaces/Dristro/food101_classifier)
 Trained on a 20% subset of the Food101 dataset.  
 Achieved a 1.59% improvement in top-1 accuracy over the original paper's baseline.
 

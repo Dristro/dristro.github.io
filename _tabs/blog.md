@@ -2,7 +2,7 @@
 title: Blog
 icon: fas fa-pen-nib
 order: 2
-layout: page
+layout: posts
 ---
 
 Welcome to the blog — a space where I share devlogs, thoughts, and deep dives into the things I'm building.

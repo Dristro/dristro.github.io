@@ -104,7 +104,7 @@ comments:
   giscus:
     repo: Dristro/dristro.github.io
     repo_id: R_kgDOOdGGdA
-    category: Comments
+    category: General
     category_id: DIC_kwDOOdGGdM4CsDRM
     mapping: pathname
     strict: 0

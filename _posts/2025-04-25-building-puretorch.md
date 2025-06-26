@@ -4,6 +4,7 @@ title: "PureTorch: A Deep Learning Framework from Scratch"
 date: 2025-04-25
 categories: [deep-learning, puretorch]
 excerpt: "A breakdown of how I’m building PureTorch — a deep learning framework from scratch using a compute graph-based autograd system."
+comments: true
 ---
 
 Over the last few months, I've been working on a small but ambitious project: **PureTorch** — a minimal deep learning framework written from scratch in Python. The goal? To better understand how frameworks like PyTorch work under the hood.
